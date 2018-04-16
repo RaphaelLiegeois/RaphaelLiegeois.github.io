@@ -8,7 +8,7 @@ All course materials (presentations, datasets, etc.) are gathered here - Looking
 
 ## Presentations
 
-* R. Liégeois _Bla_ [pdf - to be added]
+* R. Ligeois _Bla_ [pdf - to be added]
 * G. Preti
 * V. Calhoun
 * M. Breakspear
