@@ -1,8 +1,8 @@
 # Welcome to our Educational Course webpage
 
-All course materials (presentations, datasets, etc.) are gathered here - Looking forward to see you soon in Singapore!
+All course materials (presentations, datasets, etc.) are gathered here - See you soon in Singapore!
 
-\_
+&nbsp;
 
 ![Course Overview](/docs/overview.png)
 
