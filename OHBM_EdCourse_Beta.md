@@ -2,7 +2,7 @@
 &nbsp;
 ![Course Overview](/docs/overview.png)
 
-All course materials are gathered here - See you soon in Singapore! [Back to ]
+All course materials are gathered here - See you soon in Singapore!
 
 ## Presentations
 
@@ -16,7 +16,7 @@ All course materials are gathered here - See you soon in Singapore! [Back to ]
 
 ## Datasets
 
-Coming soon
+[fMRI toy example](/docs/fMRI_example.zip)
 
 
 
