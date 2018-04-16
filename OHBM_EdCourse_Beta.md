@@ -1,6 +1,14 @@
-title: bla
-### Hello welcome
+# Welcome on our Educational Course website
 
-This is a test for the beta version
+All course materials (presentations, datasets, etc.) are gathered here. 
 
-![Bla](/docs/overview.png)
+Looking forward to see you on June 17!
+
+![Course Overview](/docs/overview.png)
+
+## Datasets
+
+### Presentations
+
+
+
