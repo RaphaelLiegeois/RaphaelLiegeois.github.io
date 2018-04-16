@@ -2,7 +2,7 @@
 
 All course materials (presentations, datasets, etc.) are gathered here - See you soon in Singapore!
 
-&nbsp;
+## Overview
 
 ![Course Overview](/docs/overview.png)
 
