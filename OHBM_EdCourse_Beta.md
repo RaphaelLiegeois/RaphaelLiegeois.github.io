@@ -1,5 +1,5 @@
 # Welcome to our Educational Course webpage
-
+&nbsp;
 ![Course Overview](/docs/overview.png)
 
 All course materials are gathered here - See you soon in Singapore! [Back to ]
