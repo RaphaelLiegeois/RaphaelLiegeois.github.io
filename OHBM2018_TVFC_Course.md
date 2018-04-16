@@ -16,4 +16,4 @@ All course materials are gathered here - See you soon in Singapore!
 
 ## Datasets
 
-* [fMRI toy example](/docs/fMRI_example.zip) data used in several presentations.
+* [Exemplar fMRI time series](/docs/fMRI_example.zip) (in .mat format) used in several presentations.
