@@ -6,7 +6,7 @@ All course materials are gathered here - See you soon in Singapore!
 
 ## Presentations
 
-* R. Liégeois. _Time-varying connectivity: introduction and terminology._ [link to be added]
+* R. LiÃ©geois. _Time-varying connectivity: introduction and terminology._ [link to be added]
 * G. Preti. _The Dynamic Functional Connectome: Methodological Framework._ [link to be added]
 * V. Calhoun. _Time-varying connectivity: Data-driven approaches and clinical applications._ [link to be added]
 * M. Breakspear. _Neuronal models of dynamic functional connectivity: Linking scales and data modalities._ [[Brain Dynamics Toolbox](http://www.bdtoolbox.org/)]
