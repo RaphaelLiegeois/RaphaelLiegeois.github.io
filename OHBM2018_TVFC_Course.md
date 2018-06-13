@@ -2,7 +2,7 @@
 &nbsp;
 ![Course Overview](/docs/overview.png)
 
-__News!__ - To enjoy the hands-on demos proposed throughout the course, attendees are invited to download the [Brain Dynamics Toolbox](http://www.bdtoolbox.org/) and the [GIFT Toolbox](http://mialab.mrn.org/software/gift/).
+__News__ - To enjoy the hands-on demos proposed throughout the course, attendees are invited to download the [Brain Dynamics Toolbox](http://www.bdtoolbox.org/) and the [GIFT Toolbox](http://mialab.mrn.org/software/gift/).
 
 See you soon in Singapore!
 
